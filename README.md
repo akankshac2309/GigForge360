@@ -154,7 +154,7 @@ The following screenshots demonstrate the key functionalities and user interface
 
 > Landing page showcasing the platform overview, key features, statistics, and call-to-action.
 
-![Home Page](docs/screenshots/home-page.png)
+![Home Page](docs/screenshots/home-page.jpeg)
 
 ---
 
@@ -178,7 +178,7 @@ The following screenshots demonstrate the key functionalities and user interface
 
 > Interactive dashboard displaying business insights, analytics, recent gigs, and quick actions.
 
-![Client Dashboard](docs/screenshots/client-dashboard.png)
+![Client Dashboard](docs/screenshots/client-dashboard.jpeg)
 
 ---
 
@@ -205,12 +205,6 @@ The following screenshots demonstrate the key functionalities and user interface
 ![Reviews](docs/screenshots/reviews.png)
 
 ---
-
-### ☁️ Salesforce CRM Integration
-
-> Salesforce Custom Objects used for managing business data through REST API integration.
-
-![Salesforce CRM](docs/screenshots/salesforce-crm.png)
 
 ## 📂 Project Structure
 
